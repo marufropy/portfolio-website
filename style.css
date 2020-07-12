@@ -1,0 +1,97 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+}
+h1{
+    color: indianred;
+    font-weight: 900;
+}
+.half-width{
+    height: 500px;
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+#top-img{
+    padding-top: 3%;
+}
+#top-text{
+    margin-left: 8%;
+    padding-left: 2%;
+    padding-top: 100px;
+}
+#bio-img{
+    margin-left: 8%;
+    padding-top: 7%;
+}
+#bio-text{
+    margin-left: 2%;
+    padding-left: 5%;
+    padding-top: 150px;
+}
+section{
+    height: 600px;
+    padding-bottom: 100px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(45deg, PaleVioletRed, indianred);
+    border-radius: 5px;
+}
+#mail-button{
+    color: white;
+    width: 60%;
+    padding: 40px 200px 80px 200px;
+    background-image: linear-gradient(45deg, PaleVioletRed, indianred);
+    border-radius: 5px;
+}
+#text-middle{
+    width: 50%;
+    padding-left: 25%;
+}
+#top-part{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+#bio-part{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+#work-part{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    padding-left: 10%;
+}
+#client-part{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+p{
+    color: dimgray;
+}
+.work-client{
+    text-align: center;
+    padding-right: 10%;
+}
+.one-third{
+    height: 300px;
+    width: 28%;
+    float: left;
+}
+.one-third img{
+    width: 100%;
+}
+#work1{
+    padding-right: 3%;
+}
+#work2{
+    padding-right: 3%;
+}
+footer p{
+    text-align: center;
+}
